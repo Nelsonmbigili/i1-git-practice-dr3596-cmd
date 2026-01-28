@@ -9,3 +9,7 @@
 # Proof Reading 
 > Article checked for typos
 
+
+# Comments
+ *By __Nelson mbigili__*  
+This is an interesting read, Raisa! With the growing impact of AI, I believe that understanding and mastering the fundamentals will remain critical in software engineering. Personally, I see greater potential in cybersecurity now more than ever
